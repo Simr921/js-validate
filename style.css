@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: repeating-linear-gradient(47deg, #3e9e7cb8, #1548184f 22%);
+  font-size: 25px;
+ 
+}
+img {
+  margin: auto;
+  display: block;
+}
+table {
+  margin: auto;
+  padding: 10px;
+}
+table td {
+  padding: 8px;
+}
+table caption h2 {
+  color: darkslategray;
+}
+button {
+  font-size: large;
+  background-color: darkorange;
+  color: darkslategray;
+  padding: 10px;
+  border-radius: 5px;
+}
+span {
+  font-size: 15px;
+  font-weight: 700;
+}
+.lightfont {
+  color: rgba(51, 54, 54, 0.767);
+}
+.cfont{
+  font-size: 17px;
+  padding: 12px;
+}
